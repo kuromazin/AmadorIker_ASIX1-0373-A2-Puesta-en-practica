@@ -16,7 +16,7 @@ Los lenguajes de marcas usan etiquetas para organizar y estructurar el contenido
 
 #### Lenguajes de marcas conocidos:
 
-| **Nombre**      | **Enlace a documentación**                                        |
+| **Nombre**      | **Enlace a documentacion**                                        |
 |-----------------|-------------------------------------------------------------------|
 | HTML            | [HTML MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)     |
 | XML             | [XML W3C](https://www.w3.org/XML/)                                |
@@ -28,9 +28,9 @@ Los lenguajes de marcas usan etiquetas para organizar y estructurar el contenido
 
 ### ¿Que es HTML? ¿Sabes como se estructura?
 **Respuesta:**  
-HTML es el lenguaje de marcas utilizado para estructurar y representar el contenido de las paginas web. Se estructura con títulos, párrafos, imágenes y enlaces.
+HTML es el lenguaje de marcas utilizado para estructurar y representar el contenido de las paginas web. Se estructura con titulos, párrafos, imagenes etc...
 
-Una página HTML está estructurada de la siguiente manera:
+Una pagina HTML está estructurada de la siguiente manera:
 
 #### Figura 1: Estructura de codigo HTML
 
