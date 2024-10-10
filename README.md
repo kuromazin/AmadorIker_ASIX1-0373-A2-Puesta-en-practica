@@ -48,7 +48,7 @@ Una pagina HTML está estructurada de la siguiente manera:
     
 </body>
 </html>
-
+```
 ### ¿Qué es CSS?
 **Respuesta:**  
 CSS es lo que se encarga de la que pagina quede bonitay estructurada como quiere el usuario
