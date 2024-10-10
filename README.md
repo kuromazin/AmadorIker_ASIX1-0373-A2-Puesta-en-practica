@@ -35,7 +35,7 @@ Una página HTML está estructurada de la siguiente manera:
 #### Figura 1: Estructura de codigo HTML
 
 
-![alt text](https://github.com/img/icon48.png "Estructura codigo HTML")
+![alt text](https://github.com/kuromazin/AmadorIker_ASIX1-0373-A2-Puesta-en-practica/blob/main/html%20codigo.png "Estructura codigo HTML")
 
 ### ¿Qué es CSS?
 **Respuesta:**  
@@ -53,6 +53,6 @@ CSS es lo que se encarga de la que pagina quede bonitay estructurada como quiere
 
 
 
-![alt text](https://github.com/img/icon48.png "Fucionamiento navegador web")
+![alt text](https://github.com/kuromazin/AmadorIker_ASIX1-0373-A2-Puesta-en-practica/blob/main/servidor%20web%20yeso.png "Fucionamiento navegador web")
 
 
